@@ -1,0 +1,6 @@
+﻿  Costumer.cpp
+  Movie.cpp
+  ticket.cpp
+  Generating Code...
+C:\University\Year one- semster two\Programming\Programming Project\ctr3\ctr-ABOELNAGA-José Mourinho\ctr\ctr\Costumer.cpp(40): warning C4715: 'Costumer::readMoviesFromFile': not all control paths return a value
+  ctr.vcxproj -> C:\University\Year one- semster two\Programming\Programming Project\ctr3\ctr-ABOELNAGA-José Mourinho\ctr\ctr\x64\Debug\ctr.exe

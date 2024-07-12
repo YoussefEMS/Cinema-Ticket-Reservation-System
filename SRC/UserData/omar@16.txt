@@ -1,0 +1,5 @@
+Movie: Zein
+Seat: A2
+Price: 500
+Hall: VIP
+
